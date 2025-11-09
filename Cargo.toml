@@ -2,6 +2,9 @@
 name = "DES"
 version = "0.1.0"
 edition = "2024"
+authors = ["Кирило Сердюк"]
+description = "Реалізація алгоритму шифрування DES на Rust"
+readme = "README.md"
 
 [dependencies]
 colored = "2.1.0"
